@@ -6,13 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-       
-      <header>
+       <header>
         </header>
      <div>
        <p>
          Au77 Droid
          </p>
      </div>
-          </body>
+   </body>
     </html>
